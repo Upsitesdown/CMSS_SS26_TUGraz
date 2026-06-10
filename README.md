@@ -55,7 +55,7 @@ The research question is answered quantitatively: *Does a higher proportion of t
    ```
 
 3. **Run the notebook**:
-   - Open `CMSS_Project(3).ipynb` in Jupyter
+   - Open `CMSS_Project.ipynb` in Jupyter
    - Execute cells sequentially, starting from Section A (imports)
    - The notebook is fully reproducible with a fixed global random seed
 
@@ -107,9 +107,3 @@ The notebook contains three main experiments:
 - **H3 weak support**: A small non-linear rise from θ=0 to θ≈0.3, then plateau
 
 **Interpretation**: Self-organized homophily in this model acts as a *containment mechanism* rather than an amplifier. Believers cluster together but become isolated from susceptibles, limiting spread.
-
-## References
-
-- Smirnov, V., & Thurner, S. (2017). Spontaneous recovery in dynamical networks. Scientific Reports, 7, 10779.
-- Tambuscio, M., Ruffo, G., Flammini, A., & Menczer, F. (2015). Fact-checking effect on viral hoaxes. arXiv preprint arXiv:1503.03239.
-- Törnberg, P. (2018). Echo chambers and viral misinformation: Modeling fake news as complex contagion. arXiv preprint arXiv:1808.08274.
